@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_midway_project
 
 ## QuickStart
@@ -27,3 +28,7 @@ $ npm start
 
 
 [midway]: https://midwayjs.org
+=======
+# Backside
+A midway project.
+>>>>>>> 943e712edb4f6a541bfe8ceb3da9ab06e9597d64
